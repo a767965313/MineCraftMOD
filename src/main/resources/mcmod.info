@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ericmod",
+  "name": "Eric Example Mod",
+  "description": "Minecraft forge & FML Mod Tutorial.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eric"],
+  "credits": "The author is Eric,is his Mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
